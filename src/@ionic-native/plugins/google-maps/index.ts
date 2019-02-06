@@ -14,6 +14,7 @@ import { Observable } from 'rxjs';
 const TARGET_ELEMENT_FINDING_QUERYS: string[] = [
   'ion-router-outlet #',
   '.show-page #',
+  '.show-modal #'
 ];
 
 export type MapType =
